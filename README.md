@@ -1,6 +1,4 @@
-
-<!doctype html>
-<html lang="en">
+<html>
 <head>
 	<meta charset="utf-8">
 	<title>安装说明 - VPSMate</title>
