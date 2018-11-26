@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<title>安装说明 - VPSMate</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=10">
-	<link href="static/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="http://www.vpsmate.org/static/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
 <div class="container">
